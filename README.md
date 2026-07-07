@@ -1,65 +1,194 @@
-<h1 align="center">Hi 👋, I'm Rasan</h1>
-<h3 align="center">HNDIT Student @ SLIATE | Aspiring Full-Stack Developer from Kalmunai, Sri Lanka</h3>
+<h1 align="center">Hi 👋, I'm Mohammed Rasan</h1>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">
+HNDIT Student | Full-Stack Web Developer | Laravel & React Enthusiast | Sri Lanka 🇱🇰
+</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=[your-username]&label=Profile%20views&color=0e75b6&style=flat" alt="[your-username]" /> 
+<p align="center">
+Building modern web applications and continuously learning new technologies.
 </p>
-
-- 🔭 I’m currently working on: **Resumeiq** – An AI-powered resume builder & ATS checker.
-- 🌱 I’m currently learning: **Advanced Laravel & Cloud Deployment** (Railway, Cloudflare).
-- 👯 I’m looking to collaborate on: **Open-source web applications** that solve real-world problems.
-- 💬 Ask me about: **React, Laravel, PHP, MySQL, and REST APIs**.
-- 📫 How to reach me: **rasanalm6446@gmail.com**
-- ⚡ Fun fact: I built a **56-day automated email reminder system** for a blood donor platform!
-- 📄 Check out my resume: [Resume Link - add your drive/linkedin link here]
 
 ---
 
-### 🚀 Languages & Tools I use:
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+## 👨‍💻 About Me
+
+- 🎓 HNDIT Student at **SLIATE**
+- 💻 Passionate about **Full-Stack Web Development**
+- 🚀 Currently building **ResumeIQ** — AI Resume Builder & ATS Resume Checker
+- 🌱 Learning **Advanced Laravel, React, Cloud Deployment & REST APIs**
+- 🔥 Interested in **AI Integration, SaaS Development & Open Source**
+- 👯 Looking to collaborate on **Laravel, React & MERN projects**
+- 💬 Ask me about **PHP, Laravel, React, JavaScript, MySQL & REST APIs**
+- 📫 Email: **rasanalm6446@gmail.com**
+- ⚡ Fun Fact: I developed a **56-Day Automated Email Reminder System** for a Blood Donor Platform.
+
+---
+
+## 🌐 Portfolio
+
+- 🌍 Portfolio: **YOUR_PORTFOLIO_LINK**
+- 📄 Resume: **YOUR_RESUME_LINK**
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=7&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 ResumeIQ
+> AI-powered Resume Builder & ATS Resume Checker
+
+**Tech Stack**
+
+- Laravel
+- React
+- MySQL
+- OpenAI API
+- Tailwind CSS
+
+---
+
+### 🩸 Blood Donor Management System
+
+Features:
+
+- Donor Registration
+- Blood Request
+- Admin Dashboard
+- Email Notifications
+- 56-Day Reminder Automation
+
+---
+
+### 💼 Personal Portfolio
+
+Modern Responsive Portfolio
+
+Built using
+
+- React
+- Tailwind CSS
+- Framer Motion
+- Vercel Deployment
+
+---
+
+## 📜 Certifications
+
+- 🏅 IBM SkillsBuild — Web Development Fundamentals
+- 🏅 Coursera — Build a Website with WordPress
+- 🏅 HackerRank — React (Basic)
+- 🏅 Cisco Networking Academy (Add if available)
+
+---
+
+## 🎯 Current Goals
+
+- ✅ Master Laravel
+- ✅ Become MERN Stack Developer
+- ✅ Learn DevOps Basics
+- ✅ Build SaaS Products
+- ✅ Contribute to Open Source
+- ✅ Land a Software Engineering Internship
+
+---
+
+## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:rasanalm6446@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
 </p>
 
 ---
 
-### 📊 My GitHub Stats:
+<p align="center">
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&locale=en&theme=radical" alt="[your-username]" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=radical" alt="[your-username]" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[your-username]&show_icons=true&locale=en&layout=compact&theme=radical" alt="[your-username]" />
 </p>
 
 ---
 
-### 🏆 Certifications:
-- **IBM SkillsBuild** – Web Development Fundamentals (HTML, CSS, JS)
-- **Coursera** – Build a Free Website with WordPress
-- **HackerRank** – React (Basic)
+<h3 align="center">
 
----
+⭐ Thanks for visiting my profile! ⭐
 
-### 📫 Connect with me:
-
-<p align="left">
-<a href="https://linkedin.com/in/[your-linkedin]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[your-linkedin]" height="30" width="40" /></a>
-<a href="https://github.com/[your-username]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="[your-username]" height="30" width="40" /></a>
-</p>
-
----
+</h3>
