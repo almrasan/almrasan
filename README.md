@@ -28,8 +28,8 @@ Building modern web applications and continuously learning new technologies.
 
 ## 🌐 Portfolio
 
-- 🌍 Portfolio: **[YOUR_PORTFOLIO_LINK](https://rasan-am.onrender.com)**
-- 📄 Resume: **[YOUR_RESUME_LINK](https://rasan-am.onrender.com/RasanCV.pdf)**
+- 🌍 Portfolio: **[RASAN AM](https://rasan-am.onrender.com)**
+- 📄 Resume: **[RASAN_RESUME](https://rasan-am.onrender.com/Rasan CV.pdf)**
 
 ---
 
