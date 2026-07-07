@@ -75,11 +75,13 @@ Building modern web applications and continuously learning new technologies.
 
 ---
 
+<!--
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=almrasan&theme=onedark&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=almrasan&theme=onedark" />
 </p>
+-->
 
 ## 📈 Contribution Graph
 
