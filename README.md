@@ -29,7 +29,6 @@ Building modern web applications and continuously learning new technologies.
 ## 🌐 Portfolio
 
 - 🌍 Portfolio: **[RASAN AM](https://rasan-am.onrender.com)**
-- 📄 Resume: **[RASAN_RESUME](https://rasan-am.onrender.com/Rasan CV.pdf)**
 
 ---
 
